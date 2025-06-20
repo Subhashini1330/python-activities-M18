@@ -1,4 +1,4 @@
-m=input("did you have a medical cause Y or N: ")
+Nm=input("did you have a medical cause Y or N: ")
 a= int(input("enter the attendance of the student: "))
 
 if m == 'Y': 

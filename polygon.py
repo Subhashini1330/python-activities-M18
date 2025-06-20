@@ -1,7 +1,8 @@
 import turtle
 
-turtle.Screen().bgcolor("orange")
+turtle.Screen().bgcolor("Green")
 turtle.Screen().setup(300, 400)
+turtle.Screen().title("Welcome")
 polygon = turtle.Turtle()
 
 num_sides = 6
